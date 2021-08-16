@@ -18,4 +18,4 @@ The theory is based on the [Mathematics for Machine Learning](https://www.course
 
 # License
 
-This project uses [MIT](https://github.com/rgaezsd/pagerank/blob/main/LICENSE.md) license.
+This project uses [MIT](https://github.com/rgaezsd/pagerank/blob/main/LICENSE) license.
