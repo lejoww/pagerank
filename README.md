@@ -12,10 +12,6 @@ the ranked order of the pages from the most to the least probable page the surfe
 
 In this notebook, you'll find a minified version of the PageRank algorithm.
 
-# Credits and resources
-
-The theory is based on the [Mathematics for Machine Learning](https://www.coursera.org/learn/linear-algebra-machine-learning) course at Imperial London College. 
-
 # License
 
 This project uses [MIT](https://github.com/rgaezsd/pagerank/blob/main/LICENSE) license.
